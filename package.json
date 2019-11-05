@@ -13,7 +13,7 @@
     "koa": "^2.7.0",
     "koa-body": "^4.1.0",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "superagent": "^5.1.0",
     "tslint": "^5.18.0"
   },
